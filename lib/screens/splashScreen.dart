@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:learn/signupScreen.dart';
+import 'package:learn/screens/signupScreen.dart';
 
 import 'loginScreen.dart';
 

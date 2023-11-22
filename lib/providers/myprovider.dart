@@ -11,10 +11,10 @@ import 'package:google_sign_in/google_sign_in.dart';
 import 'package:http/http.dart' as http;
 import 'dart:developer';
 
-import '../firebase_auth_service.dart';
-import '../homeScreen.dart';
-import '../loginScreen.dart';
-import '../movies.dart';
+import '../service/firebase_auth_service.dart';
+import '../screens/homeScreen.dart';
+import '../screens/loginScreen.dart';
+import '../models/movies.dart';
 
 class MyProvider extends ChangeNotifier {
   final FirebaseAuth firebaseAuth = FirebaseAuth.instance;

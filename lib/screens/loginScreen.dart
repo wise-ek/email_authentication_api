@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:learn/providers/myprovider.dart';
-import 'package:learn/signupScreen.dart';
+import 'package:learn/screens/signupScreen.dart';
 import 'package:learn/widgets/forrmContainer_widget.dart';
 import 'package:provider/provider.dart';
 
